@@ -6,7 +6,7 @@ matplotlib
 numba
 numpy
 pandas
-pyvista==0.38.4
+pyvista
 imageio==2.26.1
 scipy
 setuptools
